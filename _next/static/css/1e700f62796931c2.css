@@ -303,7 +303,7 @@ a {
 	height: 250px;
 	position: absolute;
 	left: 330px;
-	top: 110px;
+	top: 135px;
 }
 
 .Home_sendCheck__xMz4p {
@@ -314,8 +314,8 @@ a {
 	width: 43px;
 	height: 35px;
 	position: absolute;
-	left: 295px;
-	top: 325px;
+	left: 442px;
+	top: 270px;
 }
 
 .Home_sendDone__abENy {
@@ -326,8 +326,8 @@ a {
 	width: 250px;
 	height: 120px;
 	position: absolute;
-	left: 330px;
-	top: 170px;
+	left: 328px;
+	top: 295px;
 }
 
 .Home_caution__VEpHP {
@@ -347,11 +347,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/succes.b807379f.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 180px;
-	height: 180px;
+	width: 130px;
+	height: 130px;
 	position: absolute;
-	left: 370px;
-	top: 120px;
+	left: 339px;
+	top: 220px;
 }
 
 .Home_statusTxt__dVex8 {
@@ -475,11 +475,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn1.84177ffa.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 214px;
+	height: 104px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	left: 214px;
+	top: 431px;
 }
 
 .Home_sendBtn__F6hw6:hover {
@@ -487,11 +487,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn2.92275caf.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 214px;
+	height: 104px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	left: 214px;
+	top: 431px;
 }
 
 .Home_sendBtn__F6hw6:active {
@@ -499,11 +499,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn3.f48f4e3c.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 214px;
+	height: 104px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	left: 214px;
+	top: 431px;
 }
 
 .Home_sendBtnDisable__6VyTK {
@@ -511,11 +511,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn3.f48f4e3c.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 214px;
+	height: 104px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	left: 214px;
+	top: 431px;
 }
 
 .Home_getBtn__h_3sY {
@@ -526,8 +526,8 @@ a {
 	width: 160px;
 	height: 73px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 489px;
+	top: 434px;
 }
 
 .Home_getBtn__h_3sY:hover {
@@ -538,8 +538,8 @@ a {
 	width: 160px;
 	height: 73px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 489px;
+	top: 434px;
 }
 
 .Home_getBtn__h_3sY:active {
@@ -550,8 +550,8 @@ a {
 	width: 160px;
 	height: 73px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 489px;
+	top: 434px;
 }
 
 .Home_getBtnDisable__ASdt7 {
@@ -562,8 +562,8 @@ a {
 	width: 160px;
 	height: 73px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 489px;
+	top: 434px;
 }
 
 .Home_txtState__XfTmO {
